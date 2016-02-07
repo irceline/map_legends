@@ -1,60 +1,86 @@
-### Read me
+# Read me
+Map legends for different air quality pollutants.
+## Scales based on the BelATMO index
+More information about the BelATMO index: http://www.irceline.be/en/belatmo
+## Names
 
-Use [Inkscape](https://inkscape.org/en/) to edit the map legend files.
-
-Export files as `.png` with the following settings:
-
-| orientation | web (90dpi) | print (300dpi) |
-|:-----------:|------------:|---------------:|
-|  portrait   |       200px |          800px |
-|  landscape  |       500px |         1800px |
-
-#### Names
-format:
-
-`{no2/o3/pm25/pm10}_{anmean/excday/24hour/8hour/hour}_{wide}_{hires}_{EN/NL/FR/DE}.png`
-
-e.g.:
-* o3_anmean_NL.png
-* pm10_excday_EN_hires.png
-* no2_anmean_EN_wide_hires.png
-
-See step by step guide below
-
-#### Copy to
-
-```sh
-rsync pm10_excday_EN_hires.png celinair@scripts.irceline.be:/home/celinair/www/legend/
 ```
+{pollutant}_{period}_{language}_{landscape}.svg
+```
+E.g.:
+* no2_anmean_NL.svg
+* o3_8hmean_DE.svg
 
-Legends will be available via e.g.:
+Legends are available via e.g.:
 
 ```html
-http://www.irceline.be/legend/pm10_anmean_NL.png
+http://www.irceline.be/legend/pm10_anmean_NL.svg
 ```
 
-#### Step by step guide
+### Options
+#### Pollutant
+| abbreviation |                           description                            |
+|:-------------|:----------------------------------------------------------------:|
+| no2          |                Nitrogen dioxide (NO<sub>2</sub>)                 |
+| o3           |                      Ozone (O<sub>3</sub>)                       |
+| pm10         |  Particulate matter (mass) smaller than 10 µm (PM<sub>10</sub>)  |
+| pm25         | Particulate matter (mass) smaller than 2.5 µm (PM<sub>2.5</sub>) |
+| so2          |                 sulphur dioxide (SO<sub>2</sub>)                 |
 
-##### web export
 
-1. open `.svg` in Inkscape
-2. press `5` to see all
-3. do edits as desired
-4. Export PNG Image (Shift+Ctrl+E)
-5. select `Drawing` tab to have `width` and `height` resized automatically
-6. select `Page` tab
-7. Choose `Filename`, e.g. `./index/index_wide_FR.png`
-8. Select `Export`
-9. If desired select `Save` when closing the document
+#### Period
+| abbreviation |                                        description                                        |
+|:-------------|:-----------------------------------------------------------------------------------------:|
+| hmean        |                                 hourly mean concentration                                 |
+| 8hmean       | mean concentration during 8 hours (8 hour running mean, highest 8 hour mean today , etc.) |
+| 24hmean      |        mean concentration during 24 hours (24 hour running mean, daily mean, etc.)        |
+| anmean       |                                 annual mean concentration                                 |
 
-##### hires export (for print)
-1. open `.svg` in Inkscape
-2. press `5` to see all
-3. do edits as desired
-4. Export PNG Image (Shift+Ctrl+E)
-5. select `Drawing` tab to have `width` and `height` resized automatically
-6. select `Page` tab
-7. **Change `Image size` > `Width` or `Height` to `1800` pixels at `90` (or `300`) dpi**
-8. Choose `Filename`, e.g. `./index/index_wide_FR_hires.png` - **add `_hires` to filename** - see section `Names` above
-9. Select `Export`
-10. **When closing the document select `Close without saving`**
+#### Language
+| abbreviation | description |
+|:-------------|:-----------:|
+| EN           |   English   |
+| NL           |    Dutch    |
+| FR           |   French    |
+| DE           |   German    |
+
+#### Landscape
+Legends are in "portrait" besides where `landscape` is added to the end of the legend name.
+
+### batch convert `SVG` to `PNG`
+use e.g. [ImageMagick](http://www.imagemagick.org).
+Windows/Linux:
+http://www.imagemagick.org/script/binary-releases.php
+OSX:
+http://cactuslab.com/imagemagick/ (be sure to install version with `fontconfig freetype x` - needs [XQuartz](http://www.xquartz.org/))
+
+In:
+```sh
+convert -list configure
+```
+`DELEGATES` should also list `fontconfig freetype`.
+
+using `convert`:
+```sh
+cd /dir/with/svgs
+for i in *.svg ; do convert "$i" "${i%.*}.png" ; done
+```
+For in a printed publication increase the resolution with the `-density` parameter to e.g. 300px:
+```sh
+for i in *.svg ; do convert -density 300 "$i" "${i%.*}.png" ; done
+```
+For retina displays this should be sufficient:
+```sh
+for i in *.svg ; do convert -density 144 "$i" "${i%.*}.png" ; done
+```
+
+### Editing `SVG` in `Inkscape`
+
+When using [Inkscape](https://inkscape.org/en/) to edit the map legend files, be sure to save the files as `Optimized SVG` (not `Inkscape SVG` or `Plain SVG` - bad compatibility outside of `Inkscape`) with only the following options:
+* `Options` tab:
+  * `Convert CSS attributes to XML attributes`
+* `Ids` tab:
+  * `Remove unused ID names for elements`
+  * `Preserve manual created ID names not ending with digits`
+
+After saving `Optimized SVG` you can format the `ASCII` code with the [xml-formatter](https://atom.io/packages/xml-formatter) plugin for [Atom](https://atom.io/) to make it easier readable.
