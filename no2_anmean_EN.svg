@@ -30,13 +30,13 @@
   <circle fill="#D0D2D3" stroke="#231F20" stroke-miterlimit="10" cx="12.496" cy="257" r="4"/>
   <circle fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" cx="12.496" cy="326" r="4"/>
   <text transform="matrix(1 0 0 1 23.0005 261.3477)">
-    <tspan x="0" y="0" fill="#231F20" font-family="Arial" font-size="12">measuring station: </tspan>
-    <tspan x="0" y="14.4" fill="#231F20" font-family="Arial" font-size="12">colour represents </tspan>
-    <tspan x="0" y="28.8" fill="#231F20" font-family="Arial" font-size="12">the measured </tspan>
+    <tspan x="0" y="0" fill="#231F20" font-family="Arial" font-size="12">measuring station:</tspan>
+    <tspan x="0" y="14.4" fill="#231F20" font-family="Arial" font-size="12">colour represents</tspan>
+    <tspan x="0" y="28.8" fill="#231F20" font-family="Arial" font-size="12">the measured</tspan>
     <tspan x="0" y="43.2" fill="#231F20" font-family="Arial" font-size="12">concentration</tspan>
   </text>
   <text transform="matrix(1 0 0 1 23.0005 329)">
-    <tspan x="0" y="0" fill="#231F20" font-family="Arial" font-size="12">currently no data </tspan>
-    <tspan x="0" y="14.4" fill="#231F20" font-family="Arial" font-size="12">available</tspan>
+    <tspan x="0" y="0" fill="#231F20" font-family="Arial" font-size="12">less than 90%</tspan>
+    <tspan x="0" y="14.4" fill="#231F20" font-family="Arial" font-size="12">data capture</tspan>
   </text>
 </svg>
