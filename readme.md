@@ -92,6 +92,7 @@ for i in *.svg ; do convert -density 144 "$i" "${i%.*}.png" ; done
 But in general the default 72dpi output of `convert` is sufficient for e.g. this purpose:
 ```html
 <img src="http://www.irceline.be/air/legend/pm10_anmean_FR.svg" onerror="this.onerror=null; this.src='http://www.irceline.be/air/legend/pm10_anmean_FR.png'">
+<img src="http://www.irceline.be/air/legend/no2_anmean_EN.svg" onerror="this.onerror=null; this.src='http://www.irceline.be/air/legend/no2_anmean_EN.png'" style="background-color:rgba(255,255,255,0.75);" alt="legend" >
 ```
 After [CSS-Tricks](https://css-tricks.com/using-svg/)
 
