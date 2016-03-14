@@ -36,7 +36,7 @@
     <tspan x="0" y="43.2" fill="#231F20" font-family="Arial" font-size="12">concentration</tspan>
   </text>
   <text transform="matrix(1 0 0 1 23.0005 329)">
-    <tspan x="0" y="0" fill="#231F20" font-family="Arial" font-size="12">less than 90%</tspan>
+    <tspan x="0" y="0" fill="#231F20" font-family="Arial" font-size="12">less than 85%</tspan>
     <tspan x="0" y="14.4" fill="#231F20" font-family="Arial" font-size="12">data capture</tspan>
   </text>
 </svg>
