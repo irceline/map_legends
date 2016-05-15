@@ -108,3 +108,30 @@ When using [Inkscape](https://inkscape.org/en/) to edit the map legend files, be
   * `Preserve manual created ID names not ending with digits`
 
 After saving `Optimized SVG` you can format the `ASCII` code with the [xml-formatter](https://atom.io/packages/xml-formatter) plugin for [Atom](https://atom.io/) to make it easier readable in a text-editor.
+
+### Compatibility with `QGIS`
+
+`QGIS` only supports [Scalable Vector Graphics (SVG) Tiny 1.2 Specification](https://www.w3.org/TR/SVGMobile12/)
+
+The <tspan> element is not supported. A text area could be split into multiple lines like so:
+
+```xml
+<text transform="matrix(1 0 0 1 25 261.35)">
+  <tspan x="0" y="0" fill="#231F20" font-family="Arial" font-size="12">measuring station:</tspan>
+  <tspan x="0" y="14.4" fill="#231F20" font-family="Arial" font-size="12">colour represents</tspan>
+  <tspan x="0" y="28.8" fill="#231F20" font-family="Arial" font-size="12">the measured</tspan>
+  <tspan x="0" y="43.2" fill="#231F20" font-family="Arial" font-size="12">concentration</tspan>
+</text>
+```
+When written like this:
+
+```xml
+<text font-size="12" font-family="Arial" transform="translate(25 261.35)" fill="#231F20">measuring station:</text>
+<text font-size="12" font-family="Arial" transform="translate(25 275.75)" fill="#231F20">colour represents</text>
+<text font-size="12" font-family="Arial" transform="translate(25 290.15)" fill="#231F20">the measured</text>
+<text font-size="12" font-family="Arial" transform="translate(25 304.55)" fill="#231F20">concentration</text>
+```
+... it causes no problems in `QGIS` and is also correctly interpreted by all browsers.
+
+See more details:
+http://osgeo-org.1560.x6.nabble.com/SVG-handling-in-qgis-td4115119.html
