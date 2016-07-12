@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 width="366.5px" height="132px" viewBox="0 0 366.5 140" enable-background="new 0 0 366.5 132" xml:space="preserve">
+  <rect x="36.5" y="47.5" fill="#119999" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="68.5" y="47.5" fill="#99DD77" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="100.5" y="47.5" fill="#EEEE33" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="132.5" y="47.5" fill="#FBD30B" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="164.5" y="47.5" fill="#FF4411" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="196.5" y="47.5" fill="#DD0000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="228.5" y="47.5" fill="#880000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="260.5" y="47.5" fill="#770077" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="292.5" y="47.5" fill="#000000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <text transform="matrix(1 0 0 1 7.5 11.1665)" fill="#231F20" font-family="Arial" font-size="14">NO<tspan baseline-shift="sub" font-size="8px">2</tspan>-jaargemiddelde berekend met RIO-IFDM (μg/m³)</text>
+  <!--<text transform="matrix(0.583 0 0 0.583 28.5 14.1665)" fill="#231F20" font-family="Arial" font-size="14">2</text>-->
+  <text transform="matrix(1 0 0 1 119.7148 33.6665)" fill="#231F20" font-family="Arial" font-size="14">WGO-advieswaarde</text>
+  <line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="164.5" y1="41" x2="164.5" y2="67.5"/>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 34.9805 108.1699)" fill="#231F20" font-family="Arial" font-size="14">0 - 10</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 61.1973 113.6758)" fill="#231F20" font-family="Arial" font-size="14">11 - 20</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 92.1855 114.4102)" fill="#231F20" font-family="Arial" font-size="14">21 - 30</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 123.9082 114.4102)" fill="#231F20" font-family="Arial" font-size="14">31 - 40</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 155.6309 114.4102)" fill="#231F20" font-family="Arial" font-size="14">41 - 50</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 187.3535 114.4102)" fill="#231F20" font-family="Arial" font-size="14">51 - 60</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 219.0762 114.4102)" fill="#231F20" font-family="Arial" font-size="14">61 - 70</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 250.7988 114.4102)" fill="#231F20" font-family="Arial" font-size="14">71 - 80</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 282.5215 114.4102)" fill="#231F20" font-family="Arial" font-size="14">81 - max</text>
+</svg>
