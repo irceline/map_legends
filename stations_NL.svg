@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 width="366.5px" height="120px" viewBox="0 0 366 120" enable-background="new 0 0 366 120" xml:space="preserve">
+  <circle fill="#D0D2D3" stroke="#231F20" stroke-miterlimit="10" cx="14.495" cy="21" r="2.5"/>
+  <circle fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" cx="14.495" cy="35.4" r="2.5"/>
+  <text font-size="14" font-family="Arial" transform="translate(25 25)" fill="#231F20">meetplaats (kleur = gemeten waarde)</text>
+  <text font-size="14" font-family="Arial" transform="translate(25 41.4)" fill="#231F20">&lt; 50% gegevensvastlegging</text>
+</svg>

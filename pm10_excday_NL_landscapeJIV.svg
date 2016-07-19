@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 width="400.5px" height="132px" viewBox="0 0 366.5 132" enable-background="new 0 0 366.5 132" xml:space="preserve">
+  <rect x="36.5" y="54" fill="#119999" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="68.5" y="54" fill="#99DD77" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="100.5" y="54" fill="#EEEE33" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="132.5" y="54" fill="#FBD30B" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="164.5" y="54" fill="#FF4411" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="196.5" y="54" fill="#DD0000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="228.5" y="54" fill="#880000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="260.5" y="54" fill="#770077" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="292.5" y="54" fill="#000000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <text transform="matrix(1 0 0 1 7.5 16.1665)" fill="#231F20" font-family="Arial" font-size="14">PM<tspan baseline-shift="sub" font-size="8px">10</tspan> berekend met RIO-IFDM (aantal overschrijdingsdagen)</text>
+  <!--<text transform="matrix(0.583 0 0 0.583 28.5 20.8286)" fill="#231F20" font-family="Arial" font-size="14">10</text>-->
+  <!--<text transform="matrix(1 0 0 1 37.5781 16.1665)" fill="#231F20" font-family="Arial" font-size="14">  berekend met RIO-IFDM (aantal overschrijdingsdagen)</text>-->
+  <text transform="matrix(1 0 0 1 12.7148 41.6665)" fill="#231F20" font-family="Arial" font-size="14">WGO-advieswaarde</text>
+  <line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="68.5" y1="45" x2="68.5" y2="74"/>
+  <text transform="matrix(1 0 0 1 246.7148 41.6665)" fill="#231F20" font-family="Arial" font-size="14">EU-grenswaarde</text>
+  <line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="260.5" y1="45" x2="260.5" y2="74"/>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 37.9805 110.6074)" fill="#231F20" font-family="Arial" font-size="14">0 - 3</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 68.2188 110.6074)" fill="#231F20" font-family="Arial" font-size="14">4 - 7</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 100.8252 114.6074)" fill="#231F20" font-family="Arial" font-size="14">8 - 11</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 129.4492 115.6074)" fill="#231F20" font-family="Arial" font-size="14">12 - 15</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 161.4414 115.6074)" fill="#231F20" font-family="Arial" font-size="14">16 - 20</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 190.4326 115.6074)" fill="#231F20" font-family="Arial" font-size="14">21 - 25</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 221.4238 115.6074)" fill="#231F20" font-family="Arial" font-size="14">26 - 35</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 252.416 115.6074)" fill="#231F20" font-family="Arial" font-size="14">36 - 40</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 276.4062 121.6074)" fill="#231F20" font-family="Arial" font-size="14">41 - max</text>
+</svg>
