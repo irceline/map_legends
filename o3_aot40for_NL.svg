@@ -1,19 +1,223 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="Layer_1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 130 350" xml:space="preserve" height="350px" viewBox="0 0 130 350" width="130px" version="1.1" y="0px" x="0px" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata id="metadata3472"><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata><rect id="rect3410" height="18.837" width="28.573" y="21.858" x="5.9002" fill="#00f"/><rect id="rect3412" height="18.837" width="28.573" y="44.048" x="5.9002" fill="#007efd"/><rect id="rect3414" height="18.837" width="28.573" y="66.237" x="5.9002" fill="#009800"/><rect id="rect3416" height="18.837" width="28.573" y="88.426" x="5.9002" fill="#0f0"/><rect id="rect3418" height="18.837" width="28.573" y="110.62" x="5.9002" fill="#cf3"/><rect id="rect3420" height="18.837" width="28.573" y="132.81" x="5.9002" fill="#f8e748"/><rect id="rect3422" height="18.837" width="28.573" y="154.99" x="5.9002" fill="#ff8000"/><rect id="rect3424" height="18.837" width="28.573" y="177.19" x="5.9002" fill="#f00"/><rect id="rect3426" height="18.837" width="28.573" y="199.37" x="5.9002" fill="#c00000"/><rect id="rect3428" height="18.837" width="28.573" y="221.56" x="5.9002" fill="#5a0000"/><g font-size="13.383px" font-family="Arial" fill="#231f20"><text id="text3430" transform="scale(.96420 1.0371)" y="34.239586" x="45.172604">0 - 3000</text>
-<text id="text3432" transform="scale(.96420 1.0371)" y="55.978485" x="45.172604">3001 - 6000</text>
-<text id="text3434" transform="scale(.96420 1.0371)" y="77.373917" x="45.172604">6001 - 10000</text>
-<text id="text3436" transform="scale(.96420 1.0371)" y="98.768768" x="45.172604">10001 - 12000</text>
-<text id="text3438" transform="scale(.96420 1.0371)" y="120.1642" x="45.172604">12001 - 15000</text>
-<text id="text3440" transform="scale(.96420 1.0371)" y="141.55867" x="45.172604">15001 - 18000</text>
-<text id="text3442" transform="scale(.96420 1.0371)" y="162.95448" x="45.172604">18001 - 20000</text>
-<text id="text3444" transform="scale(.96420 1.0371)" y="184.3503" x="45.172604">20001 - 22000</text>
-<text id="text3446" transform="scale(.96420 1.0371)" y="205.74524" x="45.172604">22001 - 24000</text>
-<text id="text3448" transform="scale(.96420 1.0371)" y="227.48415" x="45.172604">24001 - max</text>
-<text id="text3450" transform="scale(.96420 1.0371)" y="14.987295" x="4.0188069">microgram/m³</text>
-</g><ellipse id="circle3452" rx="3.6869" ry="3.9658" stroke="#231f20" cy="254.85" cx="13.73" stroke-miterlimit="10" stroke-width=".95595" fill="#d0d2d3"/><ellipse id="circle3454" rx="3.6869" ry="3.9658" stroke="#231f20" cy="307.39" cx="13.73" stroke-miterlimit="10" stroke-width=".95595" fill="#fff"/><g font-size="11.471px" font-family="Arial" fill="#231f20"><text id="text3456" transform="scale(.96420 1.0371)" y="249.88159" x="24.282299">meetstation: kleur</text>
-<text id="text3458" transform="scale(.96420 1.0371)" y="263.64722" x="24.282299">geeft de gemeten</text>
-<text id="text3460" transform="scale(.96420 1.0371)" y="277.41287" x="24.282299">concentratie weer</text>
-<text id="text3462" transform="scale(.96420 1.0371)" y="300.21219" x="24.282299">momenteel geen</text>
-<text id="text3464" transform="scale(.96420 1.0371)" y="313.97781" x="24.282299">gegevens beschik-</text>
-<text id="text3466" transform="scale(.96420 1.0371)" y="327.74347" x="24.282299">baar</text>
-</g></svg>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="130px"
+   height="350px"
+   viewBox="0 0 130 350"
+   enable-background="new 0 0 130 350"
+   xml:space="preserve"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="o3_aot40for_NL.svg"><metadata
+     id="metadata61"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs59" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview57"
+     showgrid="false"
+     inkscape:zoom="0.67428571"
+     inkscape:cx="65"
+     inkscape:cy="175"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" /><rect
+     x="5.8709574"
+     y="21.854452"
+     width="27.861132"
+     height="18.833021"
+     id="rect3"
+     style="fill:#0000ff" /><rect
+     x="5.8709574"
+     y="44.038761"
+     width="27.861132"
+     height="18.833021"
+     id="rect5"
+     style="fill:#007efd" /><rect
+     x="5.8709574"
+     y="66.223068"
+     width="27.861132"
+     height="18.833021"
+     id="rect7"
+     style="fill:#009800" /><rect
+     x="5.8709574"
+     y="88.407372"
+     width="27.861132"
+     height="18.833021"
+     id="rect9"
+     style="fill:#00ff00" /><rect
+     x="5.8709574"
+     y="110.59168"
+     width="27.861132"
+     height="18.833021"
+     id="rect11"
+     style="fill:#ccff33" /><rect
+     x="5.8709574"
+     y="132.77599"
+     width="27.861132"
+     height="18.833021"
+     id="rect13"
+     style="fill:#f8e748" /><rect
+     x="5.8709574"
+     y="154.96028"
+     width="27.861132"
+     height="18.833021"
+     id="rect15"
+     style="fill:#ff8000" /><rect
+     x="5.8709574"
+     y="177.14558"
+     width="27.861132"
+     height="18.833021"
+     id="rect17"
+     style="fill:#ff0000" /><rect
+     x="5.8709574"
+     y="199.3299"
+     width="27.861132"
+     height="18.833021"
+     id="rect19"
+     style="fill:#c00000" /><text
+     transform="scale(0.95221571,1.0501822)"
+     font-size="14"
+     id="text21"
+     x="44.724567"
+     y="33.8074"
+     style="font-size:13.21386147px;font-family:Arial;fill:#231f20">3001 - 6000</text>
+<text
+     transform="scale(0.95221571,1.0501822)"
+     font-size="14"
+     id="text23"
+     x="44.724567"
+     y="55.271149"
+     style="font-size:13.21386147px;font-family:Arial;fill:#231f20">6001 - 10000</text>
+<text
+     transform="scale(0.95221571,1.0501822)"
+     font-size="14"
+     id="text25"
+     x="44.724567"
+     y="76.395775"
+     style="font-size:13.21386147px;font-family:Arial;fill:#231f20">10001 - 12000</text>
+<text
+     transform="scale(0.95221571,1.0501822)"
+     font-size="14"
+     id="text27"
+     x="44.724567"
+     y="97.519829"
+     style="font-size:13.21386147px;font-family:Arial;fill:#231f20">12001 - 15000</text>
+<text
+     transform="scale(0.95221571,1.0501822)"
+     font-size="14"
+     id="text29"
+     x="44.724567"
+     y="118.64445"
+     style="font-size:13.21386147px;font-family:Arial;fill:#231f20">15001 - 18000</text>
+<text
+     transform="scale(0.95221571,1.0501822)"
+     font-size="14"
+     id="text31"
+     x="44.724567"
+     y="139.76813"
+     style="font-size:13.21386147px;font-family:Arial;fill:#231f20">18001 - 20000</text>
+<text
+     transform="scale(0.95221571,1.0501822)"
+     font-size="14"
+     id="text33"
+     x="44.724567"
+     y="160.89313"
+     style="font-size:13.21386147px;font-family:Arial;fill:#231f20">20001 - 22000</text>
+<text
+     transform="scale(0.95221571,1.0501822)"
+     font-size="14"
+     id="text35"
+     x="44.724567"
+     y="182.01813"
+     style="font-size:13.21386147px;font-family:Arial;fill:#231f20">22001 - 24000</text>
+<text
+     transform="scale(0.95221571,1.0501822)"
+     font-size="14"
+     id="text37"
+     x="44.724567"
+     y="203.14229"
+     style="font-size:13.21386147px;font-family:Arial;fill:#231f20">24001 - max</text>
+<text
+     font-size="14"
+     transform="scale(0.95221571,1.0501822)"
+     id="text39"
+     x="4.0916591"
+     y="14.798789"
+     style="font-size:13.21386147px;font-family:Arial;fill:#231f20">microgram/m³</text>
+<ellipse
+     stroke-miterlimit="10"
+     cx="13.505806"
+     cy="254.78918"
+     id="circle41"
+     rx="3.5949848"
+     ry="3.9648464"
+     style="fill:#d0d2d3;stroke:#231f20;stroke-width:0.94384724;stroke-miterlimit:10" /><ellipse
+     stroke-miterlimit="10"
+     cx="13.505806"
+     cy="307.32339"
+     id="circle43"
+     rx="3.5949848"
+     ry="3.9648464"
+     style="fill:#ffffff;stroke:#231f20;stroke-width:0.94384724;stroke-miterlimit:10" /><text
+     font-size="12"
+     transform="scale(0.95221571,1.0501822)"
+     id="text45"
+     x="24.098673"
+     y="246.72"
+     style="font-size:11.32616711px;font-family:Arial;fill:#231f20">meetstation: kleur</text>
+<text
+     font-size="12"
+     transform="scale(0.95221571,1.0501822)"
+     id="text47"
+     x="24.098673"
+     y="260.3114"
+     style="font-size:11.32616711px;font-family:Arial;fill:#231f20">geeft de gemeten</text>
+<text
+     font-size="12"
+     transform="scale(0.95221571,1.0501822)"
+     id="text49"
+     x="24.098673"
+     y="273.9028"
+     style="font-size:11.32616711px;font-family:Arial;fill:#231f20">concentratie weer</text>
+<text
+     font-size="12"
+     transform="scale(0.95221571,1.0501822)"
+     id="text51"
+     x="24.098673"
+     y="296.41354"
+     style="font-size:11.32616711px;font-family:Arial;fill:#231f20">momenteel geen</text>
+<text
+     font-size="12"
+     transform="scale(0.95221571,1.0501822)"
+     id="text53"
+     x="24.098673"
+     y="310.00494"
+     style="font-size:11.32616711px;font-family:Arial;fill:#231f20">gegevens beschik-</text>
+<text
+     font-size="12"
+     transform="scale(0.95221571,1.0501822)"
+     id="text55"
+     x="24.098673"
+     y="323.59634"
+     style="font-size:11.32616711px;font-family:Arial;fill:#231f20">baar</text>
+</svg>
