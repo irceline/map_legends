@@ -22,6 +22,6 @@
   <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 158.3076 150.166)" fill="#231F20" font-family="Arial" font-size="14">5.001 - 5.800</text>
   <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 190.4785 150.166)" fill="#231F20" font-family="Arial" font-size="14">5.801 - 7.000</text>
   <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 222.6484 150.166)" fill="#231F20" font-family="Arial" font-size="14">7.001 - 10.000</text>
-  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 249.3125 155.6719)" fill="#231F20" font-family="Arial" font-size="14">10.001 - 50.000</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 249.3125 155.6719)" fill="#231F20" font-family="Arial" font-size="14">10.001 - 15.000</text>
   <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 287.5527 150.6016)" fill="#231F20" font-family="Arial" font-size="14">15.001 - max</text>
 </svg>

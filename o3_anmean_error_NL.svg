@@ -14,18 +14,18 @@
   <rect x="6" y="245.811" fill="#f07c4a" width="31" height="19"/>
   <rect x="6" y="268.192" fill="#e34a33" width="31" height="19"/>
   <rect x="6" y="290.573" fill="#d7191c" width="31" height="19"/>
-  <text transform="matrix(1 0 0 1 46.853 36.1304)" fill="#231F20" font-family="Arial" font-size="14"> 3 - 4 </text>
-  <text transform="matrix(1 0 0 1 46.853 58.5112)" fill="#231F20" font-family="Arial" font-size="14"> 4 - 5 </text>
-  <text transform="matrix(1 0 0 1 46.853 80.8926)" fill="#231F20" font-family="Arial" font-size="14"> 5 -6 </text>
-  <text transform="matrix(1 0 0 1 46.853 103.2734)" fill="#231F20" font-family="Arial" font-size="14"> 6 - 7 </text>
-  <text transform="matrix(1 0 0 1 46.853 125.6548)" fill="#231F20" font-family="Arial" font-size="14"> 7- 8 </text>
-  <text transform="matrix(1 0 0 1 46.853 148.0352)" fill="#231F20" font-family="Arial" font-size="14"> 8 - 9 </text>
-  <text transform="matrix(1 0 0 1 46.853 170.417)" fill="#231F20" font-family="Arial" font-size="14"> 9 - 10 </text>
-  <text transform="matrix(1 0 0 1 46.853 192.7988)" fill="#231F20" font-family="Arial" font-size="14"> 10 - 11 </text>
-  <text transform="matrix(1 0 0 1 46.853 215.1797)" fill="#231F20" font-family="Arial" font-size="14"> 11 - 12 </text>
-  <text transform="matrix(1 0 0 1 46.853 237.5605)" fill="#231F20" font-family="Arial" font-size="14"> 12 - 13</text>
-<text transform="matrix(1 0 0 1 46.853 259.9413)" fill="#231F20" font-family="Arial" font-size="14"> 13 - 14 </text>
-<text transform="matrix(1 0 0 1 46.853 282.3221)" fill="#231F20" font-family="Arial" font-size="14"> 14 - 15 </text>
-<text transform="matrix(1 0 0 1 46.853 304.7029)" fill="#231F20" font-family="Arial" font-size="14"> 15 - 16 </text>
-  <text font-size="14" font-family="Arial" transform="translate(3.8027 15.631)" fill="#231F20">microgram/m³</text>
+  <text transform="matrix(1 0 0 1 46.853 36.1304)" fill="#231F20" font-family="Arial" font-size="14"> 3.001 - 4.000 </text>
+  <text transform="matrix(1 0 0 1 46.853 58.5112)" fill="#231F20" font-family="Arial" font-size="14"> 4.001 - 5.000 </text>
+  <text transform="matrix(1 0 0 1 46.853 80.8926)" fill="#231F20" font-family="Arial" font-size="14"> 5.001 -6.000 </text>
+  <text transform="matrix(1 0 0 1 46.853 103.2734)" fill="#231F20" font-family="Arial" font-size="14"> 6.001 - 7.000 </text>
+  <text transform="matrix(1 0 0 1 46.853 125.6548)" fill="#231F20" font-family="Arial" font-size="14"> 7.001 - 8.000 </text>
+  <text transform="matrix(1 0 0 1 46.853 148.0352)" fill="#231F20" font-family="Arial" font-size="14"> 8.001 - 9.000 </text>
+  <text transform="matrix(1 0 0 1 46.853 170.417)" fill="#231F20" font-family="Arial" font-size="14"> 9.001 - 10.000 </text>
+  <text transform="matrix(1 0 0 1 46.853 192.7988)" fill="#231F20" font-family="Arial" font-size="14"> 10.001 - 11.000 </text>
+  <text transform="matrix(1 0 0 1 46.853 215.1797)" fill="#231F20" font-family="Arial" font-size="14"> 11.001 - 12.000 </text>
+  <text transform="matrix(1 0 0 1 46.853 237.5605)" fill="#231F20" font-family="Arial" font-size="14"> 12.001 - 13.000 </text>
+  <text transform="matrix(1 0 0 1 46.853 259.9413)" fill="#231F20" font-family="Arial" font-size="14"> 13.001 - 14.000 </text>
+  <text transform="matrix(1 0 0 1 46.853 282.3221)" fill="#231F20" font-family="Arial" font-size="14"> 14.001 - 15.000 </text>
+  <text transform="matrix(1 0 0 1 46.853 304.7029)" fill="#231F20" font-family="Arial" font-size="14"> 15.001 - 16.000 </text>
+  <text font-size="14" font-family="Arial" transform="translate(3.8027 15.631)" fill="#231F20"> µg/m³ </text>
 </svg>
