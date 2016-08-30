@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="Layer_1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 130 350" xml:space="preserve" height="350px" viewBox="0 0 130 350" width="130px" version="1.1" y="0px" x="0px" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata id="metadata3399"><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata><rect id="rect3337" height="19" width="27.242" y="22" x="5.8455" fill="#00f"/><rect id="rect3339" height="19" width="27.242" y="44.381" x="5.8455" fill="#007efd"/><rect id="rect3341" height="19" width="27.242" y="66.762" x="5.8455" fill="#009800"/><rect id="rect3343" height="19" width="27.242" y="89.143" x="5.8455" fill="#0f0"/><rect id="rect3345" height="19" width="27.242" y="111.52" x="5.8455" fill="#cf3"/><rect id="rect3347" height="19" width="27.242" y="133.9" x="5.8455" fill="#f8e748"/><rect id="rect3349" height="19" width="27.242" y="156.29" x="5.8455" fill="#ff8000"/><rect id="rect3351" height="19" width="27.242" y="178.67" x="5.8455" fill="#f00"/><rect id="rect3353" height="19" width="27.242" y="201.05" x="5.8455" fill="#c00000"/><rect id="rect3355" height="19" width="27.242" y="223.43" x="5.8455" fill="#5a0000"/><g font-size="13.124px" font-family="Arial" fill="#231f20">
+<text id="text3357" transform="scale(.93743 1.0667)" y="33.532246" x="44.532402">0 - 2.000</text>
+<text id="text3359" transform="scale(.93743 1.0667)" y="54.850002" x="44.532402">2.001 - 4.000</text>
+<text id="text3361" transform="scale(.93743 1.0667)" y="75.83094" x="44.532402">4.001 - 6.000</text>
+<text id="text3363" transform="scale(.93743 1.0667)" y="96.81131" x="44.532402">6.001 - 8.000</text>
+<text id="text3365" transform="scale(.93743 1.0667)" y="117.79225" x="44.532402">8.001 - 10.000</text>
+<text id="text3367" transform="scale(.93743 1.0667)" y="138.77225" x="44.532402">10.001 - 12.000</text>
+<text id="text3369" transform="scale(.93743 1.0667)" y="159.75356" x="44.532402">12.001 - 15.000</text>
+<text id="text3371" transform="scale(.93743 1.0667)" y="180.73488" x="44.532402">15.001 - 18.000</text>
+<text id="text3373" transform="scale(.93743 1.0667)" y="201.71535" x="44.532402">18.001 - 20.000</text>
+<text id="text3375" transform="scale(.93743 1.0667)" y="223.0331" x="44.532402">20.001 - max</text>
+<text id="text3377" transform="scale(.93743 1.0667)" y="14.652927" x="4.1758723">(µg/m³).h</text>
+</g><ellipse id="circle3379" rx="3.2851" ry="3.6508" stroke="#231f20" cy="267.85" cx="13.048" stroke-miterlimit="10" stroke-width=".86578" fill="#d0d2d3"/>
+<ellipse id="circle3381" rx="3.2851" ry="3.6508" stroke="#231f20" cy="316.22" cx="13.048" stroke-miterlimit="10" stroke-width=".86578" fill="#fff"/>
+<g font-size="10.389px" font-family="Arial" fill="#231f20">
+  <text font-size="12" font-family="Arial" transform="translate(25 261.35)" fill="#231F20">Messstation: die</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 275.75)" fill="#231F20">Farbe entspricht</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 290.15)" fill="#231F20">der gemessenen</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 304.55)" fill="#231F20">Konzentration</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 329)" fill="#231F20">weiniger al 85%</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 343.4)" fill="#231F20">Datenerfassung</text>
+</g></svg>
