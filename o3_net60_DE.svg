@@ -21,13 +21,13 @@
   <text transform="matrix(1 0 0 1 46.853 192.7988)" fill="#231F20" font-family="Arial" font-size="14">26 - 30</text>
   <text transform="matrix(1 0 0 1 46.853 215.1797)" fill="#231F20" font-family="Arial" font-size="14">31 - 40</text>
   <text transform="matrix(1 0 0 1 46.853 237.5606)" fill="#231F20" font-family="Arial" font-size="14">41 - max</text>
-  <text font-size="14" font-family="Arial" transform="translate(3.8027 15.631)" fill="#231F20">Number of days</text>
+  <text font-size="14" font-family="Arial" transform="translate(3.8027 15.631)" fill="#231F20"># Tagen</text>
   <circle fill="#D0D2D3" stroke="#231F20" stroke-miterlimit="10" cx="14.495" cy="257" r="4"/>
   <circle fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" cx="14.495" cy="310" r="4"/>
-  <text font-size="12" font-family="Arial" transform="translate(25 261.35)" fill="#231F20">measuring station:</text>
-  <text font-size="12" font-family="Arial" transform="translate(25 275.75)" fill="#231F20">colour represents</text>
-  <text font-size="12" font-family="Arial" transform="translate(25 290.15)" fill="#231F20">the measured</text>
-  <text font-size="12" font-family="Arial" transform="translate(25 304.55)" fill="#231F20">concentration</text>
-  <text font-size="12" font-family="Arial" transform="translate(25 329)" fill="#231F20">no data</text>
-  <text font-size="12" font-family="Arial" transform="translate(25 343.4)" fill="#231F20">available</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 261.35)" fill="#231F20">Messstation: die</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 275.75)" fill="#231F20">Farbe entspricht</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 290.15)" fill="#231F20">der gemessenen</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 304.55)" fill="#231F20">Konzentration</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 329)" fill="#231F20">keine Daten</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 343.4)" fill="#231F20">verfügbar</text>
 </svg>

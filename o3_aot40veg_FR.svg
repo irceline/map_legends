@@ -14,10 +14,10 @@
 </g><ellipse id="circle3379" rx="3.2851" ry="3.6508" stroke="#231f20" cy="267.85" cx="13.048" stroke-miterlimit="10" stroke-width=".86578" fill="#d0d2d3"/>
 <ellipse id="circle3381" rx="3.2851" ry="3.6508" stroke="#231f20" cy="316.22" cx="13.048" stroke-miterlimit="10" stroke-width=".86578" fill="#fff"/>
 <g font-size="10.389px" font-family="Arial" fill="#231f20">
-  <text font-size="12" font-family="Arial" transform="translate(25 261.35)" fill="#231F20">measuring station:</text>
-  <text font-size="12" font-family="Arial" transform="translate(25 275.75)" fill="#231F20">colour represents</text>
-  <text font-size="12" font-family="Arial" transform="translate(25 290.15)" fill="#231F20">the measured</text>
-  <text font-size="12" font-family="Arial" transform="translate(25 304.55)" fill="#231F20">concentration</text>
-  <text font-size="12" font-family="Arial" transform="translate(25 329)" fill="#231F20">no data</text>
-  <text font-size="12" font-family="Arial" transform="translate(25 343.4)" fill="#231F20">available</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 261.35)" fill="#231F20">station de mésure:</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 275.75)" fill="#231F20">couleur représente</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 290.15)" fill="#231F20">les concentrations</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 304.55)" fill="#231F20">mésurées</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 329)" fill="#231F20">moins de 85% des</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 343.4)" fill="#231F20">données disponible</text>
 </g></svg>

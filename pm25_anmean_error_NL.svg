@@ -9,13 +9,13 @@
   <rect x="6" y="133.905" fill="#fdb96e" width="31" height="19"/>
   <rect x="6" y="156.286" fill="#ec6e43" width="31" height="19"/>
   <rect x="6" y="178.668" fill="#d7191c" width="31" height="19"/>
-  <text transform="matrix(1 0 0 1 46.853 36.1304)" fill="#231F20" font-family="Arial" font-size="14"> 1.30 - 1.35 </text>
-  <text transform="matrix(1 0 0 1 46.853 58.5112)" fill="#231F20" font-family="Arial" font-size="14"> 1.35 - 1.40 </text>
-  <text transform="matrix(1 0 0 1 46.853 80.8926)" fill="#231F20" font-family="Arial" font-size="14"> 1.40 - 1.45 </text>
-  <text transform="matrix(1 0 0 1 46.853 103.2734)" fill="#231F20" font-family="Arial" font-size="14"> 1.45 - 1.50 </text>
-  <text transform="matrix(1 0 0 1 46.853 125.6548)" fill="#231F20" font-family="Arial" font-size="14"> 1.50- 1.55 </text>
-  <text transform="matrix(1 0 0 1 46.853 148.0352)" fill="#231F20" font-family="Arial" font-size="14"> 1.55 - 1.60 </text>
-  <text transform="matrix(1 0 0 1 46.853 170.417)" fill="#231F20" font-family="Arial" font-size="14"> 1.60 - 1.65 </text>
-  <text transform="matrix(1 0 0 1 46.853 192.7988)" fill="#231F20" font-family="Arial" font-size="14"> 1.65 - 1.70 </text>
+  <text transform="matrix(1 0 0 1 46.853 36.1304)" fill="#231F20" font-family="Arial" font-size="14"> 1.31 - 1.35 </text>
+  <text transform="matrix(1 0 0 1 46.853 58.5112)" fill="#231F20" font-family="Arial" font-size="14"> 1.36 - 1.40 </text>
+  <text transform="matrix(1 0 0 1 46.853 80.8926)" fill="#231F20" font-family="Arial" font-size="14"> 1.41 - 1.45 </text>
+  <text transform="matrix(1 0 0 1 46.853 103.2734)" fill="#231F20" font-family="Arial" font-size="14"> 1.46 - 1.50 </text>
+  <text transform="matrix(1 0 0 1 46.853 125.6548)" fill="#231F20" font-family="Arial" font-size="14"> 1.51- 1.55 </text>
+  <text transform="matrix(1 0 0 1 46.853 148.0352)" fill="#231F20" font-family="Arial" font-size="14"> 1.56 - 1.60 </text>
+  <text transform="matrix(1 0 0 1 46.853 170.417)" fill="#231F20" font-family="Arial" font-size="14"> 1.61 - 1.65 </text>
+  <text transform="matrix(1 0 0 1 46.853 192.7988)" fill="#231F20" font-family="Arial" font-size="14"> 1.66 - 1.70 </text>
   <text font-size="14" font-family="Arial" transform="translate(3.8027 15.631)" fill="#231F20">µg/m³</text>
 </svg>
