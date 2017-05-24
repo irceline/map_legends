@@ -21,5 +21,5 @@
   <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 187.6543 118.1016)" fill="#231F20" font-family="Arial" font-size="14">17 - 19</text>
   <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 219.0908 118.1016)" fill="#231F20" font-family="Arial" font-size="14">20 - 22</text>
   <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 252.5264 118.1016)" fill="#231F20" font-family="Arial" font-size="14">23 - 25</text>
-  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 284.9629 120.1016)" fill="#231F20" font-family="Arial" font-size="14">26 - max</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 284.9629 120.1016)" fill="#231F20" font-family="Arial" font-size="14">> 25</text>
 </svg>

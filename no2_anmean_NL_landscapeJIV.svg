@@ -23,5 +23,5 @@
   <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 187.3535 131.9102)" fill="#231F20" font-family="Arial" font-size="14">51 - 60</text>
   <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 219.0762 131.9102)" fill="#231F20" font-family="Arial" font-size="14">61 - 70</text>
   <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 250.7988 131.9102)" fill="#231F20" font-family="Arial" font-size="14">71 - 80</text>
-  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 282.5215 131.9102)" fill="#231F20" font-family="Arial" font-size="14">81 - max</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 282.5215 131.9102)" fill="#231F20" font-family="Arial" font-size="14">> 80</text>
 </svg>
