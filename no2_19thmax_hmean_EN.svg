@@ -28,6 +28,6 @@
   <text font-size="12" font-family="Arial" transform="translate(25 275.75)" fill="#231F20">colour represents</text>
   <text font-size="12" font-family="Arial" transform="translate(25 290.15)" fill="#231F20">the measured</text>
   <text font-size="12" font-family="Arial" transform="translate(25 304.55)" fill="#231F20">concentration</text>
-  <text font-size="12" font-family="Arial" transform="translate(25 329)" fill="#231F20">currently no data</text>
-  <text font-size="12" font-family="Arial" transform="translate(25 343.4)" fill="#231F20">available</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 329)" fill="#231F20">less than 85%</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 343.4)" fill="#231F20">data capture</text>
 </svg>
