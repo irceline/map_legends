@@ -20,6 +20,6 @@
   <text transform="matrix(1 0 0 1 46.853 170.417)" fill="#231F20" font-family="Arial" font-size="14">18001 - 21000</text>
   <text transform="matrix(1 0 0 1 46.853 192.7988)" fill="#231F20" font-family="Arial" font-size="14">21001 - 24000</text>
   <text transform="matrix(1 0 0 1 46.853 215.1797)" fill="#231F20" font-family="Arial" font-size="14">24001 - 27000</text>
-  <text transform="matrix(1 0 0 1 46.853 237.5606)" fill="#231F20" font-family="Arial" font-size="14">27001 - max</text>
+  <text transform="matrix(1 0 0 1 46.853 237.5606)" fill="#231F20" font-family="Arial" font-size="14">> 27 000</text>
   <text font-size="14" font-family="Arial" transform="translate(3.8027 15.631)" fill="#231F20"> (µg/m³).h</text>
 </svg>

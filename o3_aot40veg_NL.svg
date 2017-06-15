@@ -9,7 +9,7 @@
 <text id="text3369" transform="scale(.93743 1.0667)" y="159.75356" x="44.532402">12 001 - 15 000</text>
 <text id="text3371" transform="scale(.93743 1.0667)" y="180.73488" x="44.532402">15 001 - 18 000</text>
 <text id="text3373" transform="scale(.93743 1.0667)" y="201.71535" x="44.532402">18 001 - 20 000</text>
-<text id="text3375" transform="scale(.93743 1.0667)" y="223.0331" x="44.532402">20 001 - max</text>
+<text id="text3375" transform="scale(.93743 1.0667)" y="223.0331" x="44.532402">> 20 000</text>
 <text id="text3377" transform="scale(.93743 1.0667)" y="14.652927" x="4.1758723">(µg/m³).h</text>
 </g><ellipse id="circle3379" rx="3.2851" ry="3.6508" stroke="#231f20" cy="267.85" cx="13.048" stroke-miterlimit="10" stroke-width=".86578" fill="#d0d2d3"/><ellipse id="circle3381" rx="3.2851" ry="3.6508" stroke="#231f20" cy="316.22" cx="13.048" stroke-miterlimit="10" stroke-width=".86578" fill="#fff"/><g font-size="10.389px" font-family="Arial" fill="#231f20"><text id="text3383" transform="scale(.94860 1.0542)" y="257.84781" x="22.850298">meetstation: kleur</text>
 <text id="text3385" transform="scale(.94860 1.0542)" y="270.31503" x="22.850298">geeft de gemeten</text>

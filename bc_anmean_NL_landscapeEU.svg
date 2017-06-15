@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 width="466.5px" height="132px" viewBox="0 0 466.5 132" enable-background="new 0 0 366.5 132" xml:space="preserve">
+  <rect x="36.5" y="44" fill="#1166cc" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="68.5" y="44" fill="#119999" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="100.5" y="44" fill="#99DD77" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="132.5" y="44" fill="#BBEE33" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="164.5" y="44" fill="#EEEE33" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="196.5" y="44" fill="#FBD30B" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="228.5" y="44" fill="#FF8811" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="260.5" y="44" fill="#FF4411" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="292.5" y="44" fill="#DD0000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <text transform="matrix(1 0 0 1 7.5 26.1665)" fill="#231F20" font-family="Arial" font-size="14">jaargemiddelde zwarte koolstof berekend met RIO-IFDM (μg/m³)</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 28.9805 110.0898)" fill="#231F20" font-family="Arial" font-size="14">0 - 0.4</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 60.416 113.0898)" fill="#231F20" font-family="Arial" font-size="14">0.5 - 0.7</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 90.0996 112.5957)" fill="#231F20" font-family="Arial" font-size="14">0.8 - 1.0</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 120.1504 116.3672)" fill="#231F20" font-family="Arial" font-size="14">1.1 - 1.3</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 150.2188 116.1016)" fill="#231F20" font-family="Arial" font-size="14">1.4 - 1.6</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 181.6543 116.1016)" fill="#231F20" font-family="Arial" font-size="14">1.7 - 1.9</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 212.5908 116.1016)" fill="#231F20" font-family="Arial" font-size="14">2.0 - 2.2</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 250.5264 116.1016)" fill="#231F20" font-family="Arial" font-size="14">2.3 - 2.5</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 282.9629 118.1016)" fill="#231F20" font-family="Arial" font-size="14">> 2.50</text>
+</svg>

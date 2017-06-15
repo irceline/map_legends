@@ -11,16 +11,16 @@
   <rect x="6" y="179.564" fill="#FF0000" width="31" height="19"/>
   <rect x="6" y="201.945" fill="#C00000" width="31" height="19"/>
   <rect x="6" y="224.326" fill="#5A0000" width="31" height="19"/>
-  <text font-size="14px" y="39.130402" x="46.853001" font-family="Arial" fill="#231f20">0 - 0,50</text>
-  <text font-size="14px" y="61.5112" x="46.853001" font-family="Arial" fill="#231f20">0,51 - 1,00</text>
-  <text font-size="14px" y="83.892601" x="46.853001" font-family="Arial" fill="#231f20">1,01 - 1,25</text>
-  <text font-size="14px" y="106.2734" x="46.853001" font-family="Arial" fill="#231f20">1,26 - 1,50</text>
-  <text font-size="14px" y="128.6548" x="46.853001" font-family="Arial" fill="#231f20">1,51 - 1,75</text>
-  <text font-size="14px" y="151.0352" x="46.853001" font-family="Arial" fill="#231f20">1,76 - 2,00</text>
-  <text font-size="14px" y="173.41701" x="46.853001" font-family="Arial" fill="#231f20">2,01 - 2,50</text>
-  <text font-size="14px" y="195.7988" x="46.853001" font-family="Arial" fill="#231f20">2,51 - 3,00</text>
-  <text font-size="14px" y="218.1797" x="46.853001" font-family="Arial" fill="#231f20">3,01 - 3,50</text>
-  <text font-size="14px" y="240.5605" x="46.853001" font-family="Arial" fill="#231f20">3,51 - MAX</text>
+  <text font-size="14px" y="39.130402" x="46.853001" font-family="Arial" fill="#231f20">0 - 0.50</text>
+  <text font-size="14px" y="61.5112" x="46.853001" font-family="Arial" fill="#231f20">0.51 - 1.00</text>
+  <text font-size="14px" y="83.892601" x="46.853001" font-family="Arial" fill="#231f20">1.01 - 1.25</text>
+  <text font-size="14px" y="106.2734" x="46.853001" font-family="Arial" fill="#231f20">1.26 - 1.50</text>
+  <text font-size="14px" y="128.6548" x="46.853001" font-family="Arial" fill="#231f20">1.51 - 1.75</text>
+  <text font-size="14px" y="151.0352" x="46.853001" font-family="Arial" fill="#231f20">1.76 - 2.00</text>
+  <text font-size="14px" y="173.41701" x="46.853001" font-family="Arial" fill="#231f20">2.01 - 2.50</text>
+  <text font-size="14px" y="195.7988" x="46.853001" font-family="Arial" fill="#231f20">2.51 - 3.00</text>
+  <text font-size="14px" y="218.1797" x="46.853001" font-family="Arial" fill="#231f20">3.01 - 3.50</text>
+  <text font-size="14px" y="240.5605" x="46.853001" font-family="Arial" fill="#231f20">> 3.50</text>
   <text font-size="14" font-family="Arial" transform="translate(3.8027 15.631)" fill="#231F20">microgram/m³</text>
   <circle fill="#D0D2D3" stroke="#231F20" stroke-miterlimit="10" cx="14.495" cy="257" r="4"/>
   <circle fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" cx="14.495" cy="320" r="4"/>

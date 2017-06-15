@@ -20,7 +20,7 @@
   <text font-size="14px" y="173.41701" x="46.853001" font-family="Arial" fill="#231f20">2,01 - 2,50</text>
   <text font-size="14px" y="195.7988" x="46.853001" font-family="Arial" fill="#231f20">2,51 - 3,00</text>
   <text font-size="14px" y="218.1797" x="46.853001" font-family="Arial" fill="#231f20">3,01 - 3,50</text>
-  <text font-size="14px" y="240.5605" x="46.853001" font-family="Arial" fill="#231f20">3,51 - MAX</text>
+  <text font-size="14px" y="240.5605" x="46.853001" font-family="Arial" fill="#231f20">> 3,50</text>
   <text font-size="14" font-family="Arial" transform="translate(3.8027 15.631)" fill="#231F20">microgram/m³</text>
   <circle fill="#D0D2D3" stroke="#231F20" stroke-miterlimit="10" cx="14.495" cy="257" r="4"/>
   <circle fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" cx="14.495" cy="320" r="4"/>

@@ -20,7 +20,7 @@
   <text transform="matrix(1 0 0 1 46.853 170.417)" fill="#231F20" font-family="Arial" font-size="14">21 - 25</text>
   <text transform="matrix(1 0 0 1 46.853 192.7988)" fill="#231F20" font-family="Arial" font-size="14">26 - 30</text>
   <text transform="matrix(1 0 0 1 46.853 215.1797)" fill="#231F20" font-family="Arial" font-size="14">31 - 35</text>
-  <text transform="matrix(1 0 0 1 46.853 237.5605)" fill="#231F20" font-family="Arial" font-size="14">36 - MAX</text>
+  <text transform="matrix(1 0 0 1 46.853 237.5605)" fill="#231F20" font-family="Arial" font-size="14">>35</text>
   <text font-size="14" font-family="Arial" transform="translate(3.8027 15.631)" fill="#231F20">Mikrogramm/m³</text>
   <circle fill="#D0D2D3" stroke="#231F20" stroke-miterlimit="10" cx="14.495" cy="257" r="4"/>
   <circle fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" cx="14.495" cy="326" r="4"/>
@@ -28,6 +28,6 @@
   <text font-size="12" font-family="Arial" transform="translate(25 275.75)" fill="#231F20">Farbe entspricht</text>
   <text font-size="12" font-family="Arial" transform="translate(25 290.15)" fill="#231F20">der gemessenen</text>
   <text font-size="12" font-family="Arial" transform="translate(25 304.55)" fill="#231F20">Konzentration</text>
-  <text font-size="12" font-family="Arial" transform="translate(25 329)" fill="#231F20">weiniger al 85%</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 329)" fill="#231F20">weniger als 85%</text>
   <text font-size="12" font-family="Arial" transform="translate(25 343.4)" fill="#231F20">Datenerfassung</text>
 </svg>

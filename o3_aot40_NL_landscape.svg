@@ -24,7 +24,7 @@
   <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 184.2402 149.166)" fill="#231F20" font-family="Arial" font-size="14">12 001 - 15 000</text>
   <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 216.6777 149.166)" fill="#231F20" font-family="Arial" font-size="14">15 001 - 18 000</text>
   <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 247.1152 149.416)" fill="#231F20" font-family="Arial" font-size="14">18 001 - 20 000</text>
-  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 287.5527 137.166)" fill="#231F20" font-family="Arial" font-size="14">20 001 - max</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 287.5527 137.166)" fill="#231F20" font-family="Arial" font-size="14">> 20 000</text>
   <line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="132.5" y1="38.5" x2="132.5" y2="78.5"/>
   <text transform="matrix(1 0 0 1 120.375 33.6665)" fill="#231F20" font-family="Arial" font-size="14">LTD</text>
 </svg>
