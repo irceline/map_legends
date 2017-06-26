@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 width="130px" height="344px" viewBox="0 0 130 344" enable-background="new 0 0 130 344" xml:space="preserve">
+  <rect x="6" y="22" fill="#2B83BA" width="31" height="19"/>
+  <rect x="6" y="44.381" fill="#63ABB0" width="31" height="19"/>
+  <rect x="6" y="66.762" fill="#9CD3A6" width="31" height="19"/>
+  <rect x="6" y="89.143" fill="#C7E8AD" width="31" height="19"/>
+  <rect x="6" y="111.524" fill="#ECF7B9" width="31" height="19"/>
+  <rect x="6" y="133.905" fill="#FEEDAA" width="31" height="19"/>
+  <rect x="6" y="156.286" fill="#FDC980" width="31" height="19"/>
+  <rect x="6" y="178.668" fill="#F89D59" width="31" height="19"/>
+  <rect x="6" y="201.049" fill="#E75B3A" width="31" height="19"/>
+  <rect x="6" y="223.43" fill="#D7191C" width="31" height="19"/>
+  <text transform="matrix(1 0 0 1 46.853 36.1304)" fill="#231F20" font-family="Arial" font-size="14"> 0 - 1.320 </text>
+  <text transform="matrix(1 0 0 1 46.853 58.5112)" fill="#231F20" font-family="Arial" font-size="14"> 1.321 - 1.360 </text>
+  <text transform="matrix(1 0 0 1 46.853 80.8926)" fill="#231F20" font-family="Arial" font-size="14"> 1.361 - 1.400 </text>
+  <text transform="matrix(1 0 0 1 46.853 103.2734)" fill="#231F20" font-family="Arial" font-size="14"> 1.401 - 1.440 </text>
+  <text transform="matrix(1 0 0 1 46.853 125.6548)" fill="#231F20" font-family="Arial" font-size="14"> 1.441 - 1.480 </text>
+  <text transform="matrix(1 0 0 1 46.853 148.0352)" fill="#231F20" font-family="Arial" font-size="14"> 1.481 - 1.520 </text>
+  <text transform="matrix(1 0 0 1 46.853 170.417)" fill="#231F20" font-family="Arial" font-size="14"> 1.521 - 1.560 </text>
+  <text transform="matrix(1 0 0 1 46.853 192.7988)" fill="#231F20" font-family="Arial" font-size="14"> 1.561 - 1.600 </text>
+  <text transform="matrix(1 0 0 1 46.853 215.1797)" fill="#231F20" font-family="Arial" font-size="14"> 1.601 - 1.640 </text>
+  <text transform="matrix(1 0 0 1 46.853 237.5605)" fill="#231F20" font-family="Arial" font-size="14"> > 1.640 </text>
+  <text font-size="14" font-family="Arial" transform="translate(3.8027 15.631)" fill="#231F20">µg/m³</text>
+</svg>
