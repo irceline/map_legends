@@ -24,7 +24,7 @@
   <text font-size="14" font-family="Arial" transform="translate(3.8027 15.631)" fill="#231F20">qualité de l'air</text>
   <circle fill="#D0D2D3" stroke="#231F20" stroke-miterlimit="10" cx="14.495" cy="257" r="4"/>
   <circle fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" cx="14.495" cy="323" r="4"/>
-  <text font-size="12" font-family="Arial" transform="translate(25 261.35)" fill="#231F20">station de mésure:</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 261.35)" fill="#231F20">station de mesure:</text>
   <text font-size="12" font-family="Arial" transform="translate(25 275.75)" fill="#231F20">couleur représente</text>
   <text font-size="12" font-family="Arial" transform="translate(25 290.15)" fill="#231F20">l'indice (basé</text>
   <text font-size="12" font-family="Arial" transform="translate(25 304.55)" fill="#231F20">sur des mésures)</text>
