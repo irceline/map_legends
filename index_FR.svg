@@ -26,8 +26,8 @@
   <circle fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" cx="14.495" cy="323" r="4"/>
   <text font-size="12" font-family="Arial" transform="translate(25 261.35)" fill="#231F20">station de mésure:</text>
   <text font-size="12" font-family="Arial" transform="translate(25 275.75)" fill="#231F20">couleur représente</text>
-  <text font-size="12" font-family="Arial" transform="translate(25 290.15)" fill="#231F20">les concentrations</text>
-  <text font-size="12" font-family="Arial" transform="translate(25 304.55)" fill="#231F20">mesurées</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 290.15)" fill="#231F20">l'indice (basé</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 304.55)" fill="#231F20">sur des mésures)</text>
   <text font-size="12" font-family="Arial" transform="translate(25 329)" fill="#231F20">Pas de données</text>
   <text font-size="12" font-family="Arial" transform="translate(25 343.4)" fill="#231F20">disponible</text>
 </svg>
