@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 width="466.5px" height="160px" viewBox="0 0 466.5 161.5" enable-background="new 0 0 366.5 155.5" xml:space="preserve">
+  <rect x="36.5" y="59" fill="#0066CC" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="68.5" y="59" fill="#009999" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="100.5" y="59" fill="#99CC66" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="132.5" y="59" fill="#FFFF33" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="164.5" y="59" fill="#FFCC00" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="196.5" y="59" fill="#FF6600" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="228.5" y="59" fill="#CC0000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="260.5" y="59" fill="#990000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="292.5" y="59" fill="#660066" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="324.5" y="59" fill="#000000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <!--<text transform="matrix(1 0 0 1 7.5 16.1665)" fill="#231F20" font-family="Arial" font-size="14">AOT40 vegetatie berekend met RIO-IFDM ((μg/m³).uren)</text>-->
+  <text transform="matrix(1 0 0 1 7.5 36.1665)" fill="#231F20" font-family="Arial" font-size="14">POD1 loofbos berekend met BEDOSE (mmol/m² bladoppervlak)</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 26.9805 125.416)" fill="#231F20" font-family="Arial" font-size="14">0 - 10</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 41.0527 142.416)" fill="#231F20" font-family="Arial" font-size="14">10,01 - 15</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 73.4902 142.416)" fill="#231F20" font-family="Arial" font-size="14">15,01 - 18</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 105.9277 142.416)" fill="#231F20" font-family="Arial" font-size="14">18,01 - 20</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 137.3662 142.416)" fill="#231F20" font-family="Arial" font-size="14">20,01 - 22</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 169.8027 142.416)" fill="#231F20" font-family="Arial" font-size="14">22,01 - 24</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 201.2402 142.416)" fill="#231F20" font-family="Arial" font-size="14">24,01 - 26</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 234.6777 142.416)" fill="#231F20" font-family="Arial" font-size="14">26,01 - 28</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 265.1152 142.416)" fill="#231F20" font-family="Arial" font-size="14">28,01 - 30</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 292.5527 144.416)" fill="#231F20" font-family="Arial" font-size="14">30,01 - max</text>
+</svg>
