@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 width="410px" height="50px" viewBox="0 0 410 50" enable-background="new 0 0 410 50" xml:space="preserve">
+  <rect x="8" y="26" fill="#0000FF" width="32" height="20"/>
+  <rect x="48" y="26" fill="#0099FF" width="32" height="20"/>
+  <rect x="88" y="26" fill="#009900" width="32" height="20"/>
+  <rect x="128" y="25.5" fill="#00FF00" width="32" height="21"/>
+  <rect x="168" y="26" fill="#FFFF00" width="32" height="20"/>
+  <rect x="208" y="26" fill="#FFBB00" width="32" height="20"/>
+  <rect x="248" y="26" fill="#FF6600" width="32" height="20"/>
+  <rect x="288" y="26" fill="#FF0000" width="32" height="20"/>
+  <rect x="328" y="26" fill="#990000" width="32" height="20"/>
+  <rect x="368" y="26" fill="#660000" width="32" height="20"/>
+  <text transform="matrix(1 0 0 1 17 16)" fill="#231F20" font-family="Arial" font-size="14">très bon</text>
+  <text transform="matrix(1 0 0 1 111 16)" fill="#231F20" font-family="Arial" font-size="14">bon</text>
+  <text transform="matrix(1 0 0 1 197 16)" fill="#231F20" font-family="Arial" font-size="14">médiocre</text>
+  <text transform="matrix(1 0 0 1 314 16)" fill="#231F20" font-family="Arial" font-size="14">mauvaise</text>
+  <line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="84" y1="0" x2="84" y2="50"/>
+  <line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="164" y1="0" x2="164" y2="50"/>
+  <line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="284" y1="0" x2="284" y2="50"/>
+</svg>
