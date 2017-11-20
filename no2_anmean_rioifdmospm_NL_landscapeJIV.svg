@@ -10,10 +10,10 @@
   <rect x="228.5" y="65" fill="#990000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
   <rect x="260.5" y="65" fill="#660066" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
   <rect x="292.5" y="65" fill="#000000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
-  <text transform="matrix(1 0 0 1 7.5 11.1665)" fill="#231F20" font-family="Arial" font-size="14">NO<tspan baseline-shift="sub" font-size="8px">2</tspan>-jaargemiddelde berekend met RIO-IFDM-OSPM (μg/m³)</text>
+  <text transform="matrix(1 0 0 1 7.5 20)" fill="#231F20" font-family="Arial" font-size="13">NO<tspan baseline-shift="sub" font-size="8px">2</tspan>-jaargemiddelde berekend met RIO-IFDM-OSPM (μg/m³)</text>
   <!--<text transform="matrix(0.583 0 0 0.583 28.5 14.1665)" fill="#231F20" font-family="Arial" font-size="14">2</text>-->
-  <text transform="matrix(1 0 0 1 119.7148 33.6665)" fill="#231F20" font-family="Arial" font-size="14">EU-grenswaarde</text>
-  <text transform="matrix(1 0 0 1 119.7148 51.1665)" fill="#231F20" font-family="Arial" font-size="14">WGO-advieswaarde</text>
+  <text transform="matrix(1 0 0 1 119.7148 40)" fill="#231F20" font-family="Arial" font-size="12">EU-grenswaarde</text>
+  <text transform="matrix(1 0 0 1 119.7148 53)" fill="#231F20" font-family="Arial" font-size="12">WGO-advieswaarde</text>
   <line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="164.5" y1="55.5" x2="164.5" y2="85"/>
   <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 34.9805 125.6699)" fill="#231F20" font-family="Arial" font-size="14">0 - 10</text>
   <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 61.1973 131.1758)" fill="#231F20" font-family="Arial" font-size="14">11 - 20</text>
