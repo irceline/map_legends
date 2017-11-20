@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 width="126px" height="350px" viewBox="0 0 126 350" enable-background="new 0 0 126 350" xml:space="preserve">
+  <rect x="6" y="22.896" fill="#0000FF" width="31" height="19"/>
+  <rect x="6" y="45.277" fill="#0099FF" width="31" height="19"/>
+  <rect x="6" y="67.659" fill="#009900" width="31" height="19"/>
+  <rect x="6" y="90.04" fill="#00FF00" width="31" height="19"/>
+  <rect x="6" y="112.421" fill="#FFFF00" width="31" height="19"/>
+  <rect x="6" y="134.802" fill="#FFBB00" width="31" height="19"/>
+  <rect x="6" y="157.183" fill="#FF6600" width="31" height="19"/>
+  <rect x="6" y="179.564" fill="#FF0000" width="31" height="19"/>
+  <rect x="6" y="201.945" fill="#990000" width="31" height="19"/>
+  <rect x="6" y="224.326" fill="#660000" width="31" height="19"/>
+  <text transform="matrix(1 0 0 1 46.853 36.1304)" fill="#231F20" font-family="Arial" font-size="14">uitstekend</text>
+  <text transform="matrix(1 0 0 1 46.853 58.5112)" fill="#231F20" font-family="Arial" font-size="14">zeer goed</text>
+  <text transform="matrix(1 0 0 1 46.853 80.8926)" fill="#231F20" font-family="Arial" font-size="14">goed</text>
+  <text transform="matrix(1 0 0 1 46.853 103.2734)" fill="#231F20" font-family="Arial" font-size="14">vrij goed</text>
+  <text transform="matrix(1 0 0 1 46.853 125.6548)" fill="#231F20" font-family="Arial" font-size="14">gewoon</text>
+  <text transform="matrix(1 0 0 1 46.853 148.0352)" fill="#231F20" font-family="Arial" font-size="14">middelmatig</text>
+  <text transform="matrix(1 0 0 1 46.853 170.417)" fill="#231F20" font-family="Arial" font-size="14">ondermaats</text>
+  <text transform="matrix(1 0 0 1 46.853 192.7988)" fill="#231F20" font-family="Arial" font-size="14">slecht</text>
+  <text transform="matrix(1 0 0 1 46.853 215.1797)" fill="#231F20" font-family="Arial" font-size="14">zeer slecht</text>
+  <text transform="matrix(1 0 0 1 46.853 237.5605)" fill="#231F20" font-family="Arial" font-size="14">uiterst slecht</text>
+  <text font-size="14" font-family="Arial" transform="translate(3.8027 15.631)" fill="#231F20">Luchtkwaliteit</text>
+  <circle fill="#D0D2D3" stroke="#231F20" stroke-miterlimit="10" cx="14.495" cy="257" r="4"/>
+  <circle fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" cx="14.495" cy="310" r="4"/>
+  <text font-size="12" font-family="Arial" transform="translate(25 261.35)" fill="#231F20">meetstation: kleur</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 275.75)" fill="#231F20">geeft index weer</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 290.15)" fill="#231F20">(metinggebaseerd) </text>
+  <text font-size="12" font-family="Arial" transform="translate(25 314)" fill="#231F20">momenteel geen</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 328.4)" fill="#231F20">gegevens beschik-</text>
+  <text font-size="12" font-family="Arial" transform="translate(25 342.8)" fill="#231F20">baar</text>
+</svg>
