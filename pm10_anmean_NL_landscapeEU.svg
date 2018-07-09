@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 width="366.5px" height="132px" viewBox="0 0 366.5 132" enable-background="new 0 0 366.5 132" xml:space="preserve">
-  <rect x="36.5" y="54" fill="#0066CC" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
-  <rect x="68.5" y="54" fill="#009999" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
-  <rect x="100.5" y="54" fill="#99CC66" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
-  <rect x="132.5" y="54" fill="#FFFF00" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
-  <rect x="164.5" y="54" fill="#FFFF33" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
-  <rect x="196.5" y="54" fill="#FFCC00" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
-  <rect x="228.5" y="54" fill="#FF9900" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
-  <rect x="260.5" y="54" fill="#FF6600" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
-  <rect x="292.5" y="54" fill="#CC0000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
-  <text transform="matrix(1 0 0 1 7.5 16.1665)" fill="#231F20" font-family="Arial" font-size="14">PM<tspan baseline-shift="sub" font-size="8px">10</tspan>-jaargemiddelde berekend met RIO-IFDM (μg/m³)</text>
-  <text transform="matrix(1 0 0 1 253.7148 41.6665)" fill="#231F20" font-family="Arial" font-size="14">EU-grenswaarde</text>
-  <line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="292.5" y1="44" x2="292.5" y2="74"/>
-  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 34.9805 111.5957)" fill="#231F20" font-family="Arial" font-size="14">0 - 5</text>
-  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 63.9473 113.3672)" fill="#231F20" font-family="Arial" font-size="14">6 - 10</text>
-  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 94.9326 117.1016)" fill="#231F20" font-family="Arial" font-size="14">11 - 15</text>
-  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 126.2852 117.1016)" fill="#231F20" font-family="Arial" font-size="14">16 - 20</text>
-  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 157.6367 117.1016)" fill="#231F20" font-family="Arial" font-size="14">21 - 25</text>
-  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 188.9893 117.1016)" fill="#231F20" font-family="Arial" font-size="14">26 - 30</text>
-  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 220.3418 117.1016)" fill="#231F20" font-family="Arial" font-size="14">31 - 35</text>
-  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 251.6934 117.1016)" fill="#231F20" font-family="Arial" font-size="14">36 - 40</text>
-  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 281.0469 121.1016)" fill="#231F20" font-family="Arial" font-size="14">> 40</text>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 width="460px" height="132px" viewBox="0 0 460 132" enable-background="new 0 0 460 132" xml:space="preserve">
+  <rect x="36.5" y="49" fill="#0000FF" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="68.5" y="49" fill="#0099FF" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="100.5" y="49" fill="#009900" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="132.5" y="49" fill="#00FF00" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="164.5" y="49" fill="#FFFF00" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="196.5" y="49" fill="#FFBB00" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="228.5" y="49" fill="#FF6600" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="260.5" y="49" fill="#FF0000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="292.5" y="49" fill="#990000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="324.5" y="49" fill="#660000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <text transform="matrix(1 0 0 1 7.5 16.1665)" fill="#231F20" font-family="Arial" font-size="14">PM10-jaargemiddelde berekend met ATMO-Street (µg/m³)</text>
+  <text transform="matrix(1 0 0 1 203.7148 36.6665)" fill="#231F20" font-family="Arial" font-size="14">EU-grenswaarde</text>
+  <line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="260.5" y1="40" x2="260.5" y2="69"/>
+  <text transform="matrix(1 0 0 1 439.6953 283.4648)" font-family="'MyriadPro-Regular'" font-size="12">³μ</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 34.9805 107.5957)" fill="#231F20" font-family="Arial" font-size="14">0 - 10</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 63.9473 112.3672)" fill="#231F20" font-family="Arial" font-size="14">11 - 15</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 94.9326 113.1016)" fill="#231F20" font-family="Arial" font-size="14">16 - 20</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 126.2852 113.1016)" fill="#231F20" font-family="Arial" font-size="14">21 - 25</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 157.6367 113.1016)" fill="#231F20" font-family="Arial" font-size="14">26 - 30</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 188.9893 113.1016)" fill="#231F20" font-family="Arial" font-size="14">31 - 35</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 220.3418 113.1016)" fill="#231F20" font-family="Arial" font-size="14">36 - 40</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 251.6934 113.1016)" fill="#231F20" font-family="Arial" font-size="14">41 - 45</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 283.0469 113.1016)" fill="#231F20" font-family="Arial" font-size="14">46 - 50</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 322.5527 110.793)" fill="#231F20" font-family="Arial" font-size="14">> 50</text>
 </svg>
