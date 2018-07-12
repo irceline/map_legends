@@ -12,15 +12,17 @@
   <rect x="292.5" y="59" fill="#660066" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
   <rect x="324.5" y="59" fill="#000000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
   <!--<text transform="matrix(1 0 0 1 7.5 16.1665)" fill="#231F20" font-family="Arial" font-size="14">AOT40 vegetatie berekend met RIO-IFDM ((μg/m³).uren)</text>-->
-  <text transform="matrix(1 0 0 1 7.5 36.1665)" fill="#231F20" font-family="Arial" font-size="14">POD3 akkergewas berekend met BEDOSE (mmol/m² bladoppervlak)</text>
-  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 29.9805 122.416)" fill="#231F20" font-family="Arial" font-size="14">0 - 1</text>
-  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 47.0527 133.416)" fill="#231F20" font-family="Arial" font-size="14">1,01 - 2</text>
-  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 80.4902 133.416)" fill="#231F20" font-family="Arial" font-size="14">2,01 - 3</text>
-  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 111.9277 133.416)" fill="#231F20" font-family="Arial" font-size="14">3,01 - 4</text>
-  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 143.3662 133.416)" fill="#231F20" font-family="Arial" font-size="14">4,01 - 5</text>
-  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 175.8027 133.416)" fill="#231F20" font-family="Arial" font-size="14">5,01 - 7</text>
-  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 206.2402 133.416)" fill="#231F20" font-family="Arial" font-size="14">7,01 - 10</text>
-  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 234.6777 142.416)" fill="#231F20" font-family="Arial" font-size="14">10,01 - 12</text>
-  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 265.1152 142.416)" fill="#231F20" font-family="Arial" font-size="14">12,01 - 15</text>
-  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 292.5527 144.416)" fill="#231F20" font-family="Arial" font-size="14">15,01 - max</text>
+  <text transform="matrix(1 0 0 1 7.5 16.1665)" fill="#231F20" font-family="Arial" font-size="14">POD3 gewas berekend met BEDOSE (mmol/m² bladoppervlak)</text>
+  <line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="164.5" y1="47" x2="164.5" y2="79"/>
+  <text transform="matrix(1 0 0 1 137.7148 41.6665)" fill="#231F20" font-family="Arial" font-size="12">Kritiek niveau</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 29.9805 117.416)" fill="#231F20" font-family="Arial" font-size="14">0 - 2</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 51.0527 131.416)" fill="#231F20" font-family="Arial" font-size="14">2,01 - 4</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 84.4902 131.416)" fill="#231F20" font-family="Arial" font-size="14">4,01 - 6</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 111.9277 140.416)" fill="#231F20" font-family="Arial" font-size="14">6,01 - 7,9</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 143.3662 138.416)" fill="#231F20" font-family="Arial" font-size="14">7,91 - 10</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 175.8027 142.416)" fill="#231F20" font-family="Arial" font-size="14">10,01 - 12</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 206.2402 142.416)" fill="#231F20" font-family="Arial" font-size="14">12,01 - 14</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 234.6777 142.416)" fill="#231F20" font-family="Arial" font-size="14">14,01 - 16</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 266.1152 142.416)" fill="#231F20" font-family="Arial" font-size="14">16,01 - 18</text>
+  <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 323.5527 125.416)" fill="#231F20" font-family="Arial" font-size="14"> >18</text>
 </svg>
