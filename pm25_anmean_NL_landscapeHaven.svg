@@ -12,8 +12,10 @@
   <rect x="292.5" y="49" fill="#990000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
   <rect x="324.5" y="49" fill="#660000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
   <text transform="matrix(1 0 0 1 7.5 16.1665)" fill="#231F20" font-family="Arial" font-size="14">PM<tspan baseline-shift="sub" font-size="8px">2.5</tspan>-jaargemiddelde berekend met ATMO-Street (μg/m³)</text>
-  <text transform="matrix(1 0 0 1 203.7148 36.6665)" fill="#231F20" font-family="Arial" font-size="14">EU-grenswaarde</text>
+  <text transform="matrix(1 0 0 1 68.7148 36.6665)" fill="#231F20" font-family="Arial" font-size="14">WGO-advieswaarde</text>
+  <text transform="matrix(1 0 0 1 208.7148 36.6665)" fill="#231F20" font-family="Arial" font-size="14">EU-grenswaarde</text>
   <line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="260.5" y1="41" x2="260.5" y2="69"/>
+  <line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="132.5" y1="41" x2="132.5" y2="69"/>
   <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 36.9805 102.0898)" fill="#231F20" font-family="Arial" font-size="14">0 - 5</text>
   <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 70.416 102.0898)" fill="#231F20" font-family="Arial" font-size="14">6 - 7</text>
   <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 98.0996 107.5957)" fill="#231F20" font-family="Arial" font-size="14">8 - 10</text>
