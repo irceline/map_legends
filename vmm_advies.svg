@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 width="860px" height="80px" xml:space="preserve">
-  <rect x="6" y="22" fill="#fbfbfb" stroke="#231f20" width="31" height="19"/>
-  <rect x="6" y="44.381" fill="#b4d7ff" stroke="#231f20" width="31" height="19"/>
-  <text transform="matrix(1 0 0 1 46.853 36.1304)" fill="#231F20" font-family="Arial" font-size="14">niet gelegen binnen adviescontour VMM Lucht (3de criterium art.35 §18 Omgevingsvergunningsbesluit)</text>
-  <text transform="matrix(1 0 0 1 46.853 58.5112)" fill="#231F20" font-family="Arial" font-size="14">gelegen binnen adviescontour VMM Lucht (3de criterium art.35 §18 Omgevingsvergunningsbesluit)</text>
-  <!--<text font-size="14" font-family="Arial" transform="translate(3.8027 15.631)" fill="#231F20">Mikrogramm/m³</text>-->
- 
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="720px" height="80px" viewBox="0 0 720 80" enable-background="new 0 0 720 100"  xml:space="preserve">
+  <rect x="6" y="22" fill="none" stroke="#231f20" width="32" height="20"/>
+  <rect x="6" y="46" fill="#b4d7ff" stroke="#231f20" width="32" height="20"/>
+  <text transform="matrix(1 0 0 1 46 36)" fill="#231F20" font-family="Arial" font-size="14">niet gelegen binnen adviescontour VMM Lucht (3de criterium art.35 §18 Omgevingsvergunningsbesluit)</text>
+  <text transform="matrix(1 0 0 1 46 60)" fill="#231F20" font-family="Arial" font-size="14">gelegen binnen adviescontour VMM Lucht (3de criterium art.35 §18 Omgevingsvergunningsbesluit)</text>
+  
 </svg>
