@@ -9,8 +9,8 @@
   <rect x="6" y="134.802" fill="#FF9900" width="31" height="19"/>
   <rect x="6" y="157.183" fill="#FF6600" width="31" height="19"/>
   <rect x="6" y="179.564" fill="#FF0000" width="31" height="19"/>
-  <rect x="6" y="201.945" fill="#990000" width="31" height="19"/>
-  <rect x="6" y="224.326" fill="#660000" width="31" height="19"/>
+  <rect x="6" y="201.945" fill="#CC0000" width="31" height="19"/>
+  <rect x="6" y="224.326" fill="#990099" width="31" height="19"/>
   <text transform="matrix(1 0 0 1 46.853 36.1304)" fill="#231F20" font-family="Arial" font-size="14">Excellent</text>
   <text transform="matrix(1 0 0 1 46.853 58.5112)" fill="#231F20" font-family="Arial" font-size="14">Very good</text>
   <text transform="matrix(1 0 0 1 46.853 80.8926)" fill="#231F20" font-family="Arial" font-size="14">Good</text>
