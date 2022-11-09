@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 width="490.5px" height="132px" viewBox="0 0 466.5 132" enable-background="new 0 0 466.5 132" xml:space="preserve">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"	 width="466.5px" height="132px" viewBox="0 0 466.5 132" enable-background="new 0 0 466.5 132" xml:space="preserve">
   <rect x="36.5" y="54" fill="#0066CC" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
   <rect x="68.5" y="54" fill="#009999" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
   <rect x="100.5" y="54" fill="#99CC66" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
@@ -11,7 +11,7 @@
   <rect x="260.5" y="54" fill="#990000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
   <rect x="292.5" y="54" fill="#660066" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
   <rect x="324.5" y="54" fill="#000000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
-  <text transform="matrix(1 0 0 1 7.5 26.1665)" fill="#231F20" font-family="Arial" font-size="14">aantal dagen boven WGO-advieswaarde in 2018 berekend met RIO-IFDM</text>
+  <text transform="matrix(1 0 0 1 7.5 26.1665)" fill="#231F20" font-family="Arial" font-size="14">aantal dagen boven WGO-advieswaarde berekend met RIO-IFDM</text>
   <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 52.9805 94.5957)" fill="#231F20" font-family="Arial" font-size="14">0</text>
   <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 70.5195 108.8984)" fill="#231F20" font-family="Arial" font-size="14">1 - 5</text>
   <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 102.3623 114.8984)" fill="#231F20" font-family="Arial" font-size="14">6 - 10</text>
