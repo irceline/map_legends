@@ -1,7 +1,7 @@
 # Read me
 Map legends for different air quality pollutants.
-## Scales based on the BelATMO index
-More information about the BelATMO index: http://www.irceline.be/en/belatmo
+## Scales based on the BelAQI index (update november 2022)
+More information about the BelAQI index: https://www.irceline.be/en/air-quality/measurements/air-quality-index-november-2022/info_nov2022
 ## Names
 ```
 {pollutant}_{period}_{language}_{landscape}.svg
@@ -27,7 +27,7 @@ See listing: http://www.irceline.be/air/legend/
 | bc           |                        Black Carbon (BC)                         |
 | c6h6         |               Benzene (C<sub>6</sub>H<sub>6</sub>)               |
 | co           |                       Carbon Monoxide (CO)                       |
-| index        |      BelATMO index, see: http://www.irceline.be/en/belatmo       |
+| index        |      BelAQI index, see: http://www.irceline.be/en/belatmo       |
 | no2          |                Nitrogen dioxide (NO<sub>2</sub>)                 |
 | o3           |                      Ozone (O<sub>3</sub>)                       |
 | pm10         |  Particulate matter (mass) smaller than 10 µm (PM<sub>10</sub>)  |
@@ -41,7 +41,7 @@ See listing: http://www.irceline.be/air/legend/
 | 8hmean       |     mean concentration during 8 hours (8 hour running mean, highest 8 hour mean today , etc.)      |
 | anmean       |                                     annual mean concentration                                      |
 | aot40        |            Accumulated Ozone exposure over a Threshold of 40 ppb (=80 µg/m³) - (AOT40)             |
-| aot60        |           Accumulated Ozone Exposure above a Threshold of 60 ppb = (120 µg/m³) - (AOT60)           |
+| aot60        |           Accumulated Ozone Exposure above a Threshold of 60 ppb (=120 µg/m³) - (AOT60)           |
 | excday       | number of days per year when the daily mean was higher than the EU-treshold of 50 µg/m<sup>3</sup> |
 | hmean        |                                     hourly mean concentration                                      |
 | net60        |              Number of Exceedances above a Threshold of 60ppb (=120 µg/m³) - (NET60)               |
