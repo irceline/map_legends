@@ -9,8 +9,8 @@
   <rect x="196.5" y="34" fill="#FFBB00" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
   <rect x="228.5" y="34" fill="#FF6600" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
   <rect x="260.5" y="34" fill="#FF0000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
-  <rect x="292.5" y="34" fill="#990000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
-  <rect x="324.5" y="34" fill="#660000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="292.5" y="34" fill="#CC0000" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
+  <rect x="324.5" y="34" fill="#990099" stroke="#A6A8AB" stroke-miterlimit="10" width="32" height="20"/>
   <text transform="matrix(1 0 0 1 7.5 20)" fill="#231F20" font-family="Arial" font-size="13">Jaargemiddelde zwarte koolstof berekend met ATMO-Street (μg/m³)</text>
   <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 24.9805 105.0898)" fill="#231F20" font-family="Arial" font-size="14">0 - 0.50</text>
   <text transform="matrix(0.7071 -0.7071 0.7071 0.7071 45.416 115.0898)" fill="#231F20" font-family="Arial" font-size="14">0.51 - 1.00</text>
