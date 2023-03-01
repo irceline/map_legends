@@ -27,7 +27,7 @@ See listing: http://www.irceline.be/air/legend/
 | bc           |                        Black Carbon (BC)                         |
 | c6h6         |               Benzene (C<sub>6</sub>H<sub>6</sub>)               |
 | co           |                       Carbon Monoxide (CO)                       |
-| index        |      BelAQI index, see: http://www.irceline.be/en/belatmo       |
+| index        |      [BelAQI index](https://www.irceline.be/nl/luchtkwaliteit/metingen/belaqi-luchtkwaliteitsindex-november-2022/informatie/)    |
 | no2          |                Nitrogen dioxide (NO<sub>2</sub>)                 |
 | o3           |                      Ozone (O<sub>3</sub>)                       |
 | pm10         |  Particulate matter (mass) smaller than 10 µm (PM<sub>10</sub>)  |
