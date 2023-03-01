@@ -61,6 +61,54 @@ Legends are in "portrait" besides where `landscape` is added to the end of the l
 http://www.irceline.be/legend/pm25_anmean_NL_landscape.svg
 ```
 
+### Colours
+#### BelAQI
+| index | NL | FR | EN | DE | hex | RGB |
+|:------|:---|:---|:---|:---|:----|:----|
+| 1 | uitstekend | excellent | excellent | ausgezeichnet | #0000FF | 0 0 255 |
+| 2 |	zeer goed | très bon | very good  | sehr gut | #0099FF | 0 153 255 |
+| 3 | goed | bon | good | gut | #009900 | 0 153 0 |
+| 4 | vrij goed | assez bon | fairly good | relativ gut | #00FF00 | 0 255 0 |
+| 5 | middelmatig | moyen | moderate | mittelmäßig | #FFFF00 | 255 255 0 |
+| 6 | ondermaats | insuffisant | poor | ungenügend | #FFBB00 | 255 187 0 |
+| 7 | vrij slecht | assez mauvais | very poor | relativ schlecht | #FF6600 | 255 102 0 |
+| 8 | slecht | mauvais | bad | schlecht | #FF0000 | 255 0 0 |
+| 9 | zeer slecht | très mauvais | very bad  | sehr schlecht | #CC0000 | 204 0 0 |
+| 10 | uitermate slecht | exécrable | horrible | extrem schlecht | #990099 | 153 0 153 |
+
+For copy/paste in style sheets (alt+select to select column in text):
+
+BelAQI:
+```
+#0000FF
+#0099FF
+#009900
+#00FF00
+#FFFF00
+#FFBB00
+#FF6600
+#FF0000
+#CC0000
+#990099
+```
+
+#### Old colours BelATMO
+
+|     RGB     | websafe | websafe2 | websafe orig |
+|:-----------:|:-------:|:--------:|:------------:|
+|  0 102 204  | #0066CC | #1166CC  |   #0000FF    |
+| 51 204 204  | #33CCCC | #119999  |   #007EFD    |
+| 153 255 153 | #99FF99 | #99DD77  |   #009800    |
+| 255 255 153 | #FFFF99 | #EEEE33  |   #00FF00    |
+|  255 238 8  | #FFEE00 | #FBD30B  |   #CCFF33    |
+|  255 102 0  | #FF6600 | #FF4411  |   #F8E748    |
+|   238 0 0   | #EE0000 | #DD0000  |   #FF8000    |
+|  170 34 0   | #AA2200 | #880000  |   #FF0000    |
+|  153 0 153  | #990099 | #770077  |   #C00000    |
+|    0 0 0    | #000000 | #000000  |   #5A0000    |
+
+
+
 ### batch convert `SVG` to `PNG`
 Use e.g.: [ImageMagick](http://www.imagemagick.org).
 
